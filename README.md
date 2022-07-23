@@ -8,12 +8,6 @@
 </p>
 <br/> -->
 
-
-# Web3, Full Stack Solidity, Smart Contract & Blockchain - Beginner to Expert ULTIMATE Course | Javascript Edition
-
-<br/>
-<p align="center">
-<a href="https://www.youtube.com/watch?v=gyMwXuJrbJQ" target="_blank">
 <img src="./img/blockchain1.png" width="500" alt="Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Javascript Tutorial">
 </a>
 </p>
